@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 1. Testing
+title: Getting Started
 has_children: true
 nav_order: 1
-has_toc: false
+has_toc: true
 ---
 
 # Another page
