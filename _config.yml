@@ -1,0 +1,15 @@
+title: "Kulkarni Group Handbook"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "light"
+search_enabled: false
+permalink: pretty
+
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    docs:
+      name: Getting started
