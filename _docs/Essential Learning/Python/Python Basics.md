@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Python
-parent: 2. Learning the basics
+title: Python Basics
+parent: Python
 has_children: false
 nav_order: 1
 has_toc: false
 ---
 
-# Learning Python
+# Python Basics
 
 {: .no_toc }
 
