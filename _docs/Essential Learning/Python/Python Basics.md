@@ -2,6 +2,7 @@
 layout: default
 title: Python Basics
 parent: Python
+grand_parent: 2. Learning the basics
 has_children: false
 nav_order: 1
 has_toc: false
