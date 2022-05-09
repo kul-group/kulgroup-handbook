@@ -19,6 +19,8 @@ has_toc: false
 
 ### Procedure for Mac + Monitors and peripherals
 
+- Have Ambar add you to prepurchasing so it is easier to get reimbursed for conferences and travel in the future
+
 ### Account Setup
 
 This section lists the various places you should set up an account using your UC Davis credentials. Having access to the sites in the Essential section will be necessary for doing your research and collaborating with the group. Having accounts in the non-essential section are useful but less important. 
