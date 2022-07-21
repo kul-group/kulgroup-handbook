@@ -8,18 +8,59 @@ Instructions
 2. run file `00_make_molecule.py` by running `python3 00_make_molecule.py`
 3. verify that the file `start.traj` was created
 4. Verify that the correct header is being used for each cluster. 
-5. run the second file with slurm by typing `sbatch 01_submit_job.py` (you might need a __init__.py file for kultools.py to be recognized as a module). 
-6. Check the `job.out` and `job.err` files for errors
+5. Verify that the sys.path.insert() is set to wherever your kultools directory lives.
+6. run the second file with slurm by typing `sbatch 01_submit_job.py` (you might need a __init__.py file for kultools.py to be recognized as a module). 
+7. Check the `job.out` and `job.err` files for errors
+
+
 
 # Adjusting parameters in submission script
-Kultools creates an object which contains all the relevant information needed to successfully run a DFT calculation using vasp. Below are some attributes of the KT class which can be adjusted for your specific system.
+Kultools creates an object which contains all the relevant information needed to successfully run a DFT calculation using vasp. 
+Below are some attributes of the KT class which can be adjusted for your specific system.
 
 ## Material type
-When creating and instance of the KT class, a structure_type must be specified. Available types. 
+When creating and instance of the KT class, a structure_type must be specified. 
+
+Available types:
 * zeo
 * mof
 * metal
 * gas-phase
 
-These structure type tags are helpful in setting vasp parameters that are appropriate for your system of choice
+These structure type tags are helpful in setting vasp parameters that are appropriate for your system of choice.
+See kultools.py to see the parameters set for each material type. 
+See the 01_submit_job.py script for an example of how to set the structure_type.
+
+## Job type
+When running a DFT calculation in vasp, a calculation type must be specified.
+
+The following job types are available in the .set_calculation_type() module:
+* opt
+* opt_fine
+* vib
+* spe
+* md
+* solv
+* nebs and dimer will be available soon
+
+See the 01_submit_job.py script for an example of how to set the calculation type.
+
+## Structure selection
+
+See the 01_submit_job.py script for an example of how to set the structure.
+Make sure periodic boundary conditions are set. 
+* atoms = io.read('start.traj')
+* atoms.pbc=True
+* kt.set_structure(atoms)
+
+## Additional parameters
+
+Any VASP parameters can be specified by using the .set_overall_vasp_params() module.
+Potential parameters that the user may want to specificy include but are not limitied to:
+* xc (the functional you wish to use)
+* ivdw (set this tag to include van der waals corrections, our group typically uses ivdw = 12)
+* nsw (number of steps)
+
+See vasp wiki for more information on various paramaters.
+
 
