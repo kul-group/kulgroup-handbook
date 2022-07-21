@@ -12,6 +12,8 @@ Instructions
 6. run the second file with slurm by typing `sbatch 01_submit_job.py` (you might need a __init__.py file for kultools.py to be recognized as a module). 
 7. Check the `job.out` and `job.err` files for errors
 
+See below for making adjustments to the 01_sumbit_job.py script. 
+
 
 
 # Adjusting parameters in submission script
@@ -63,6 +65,8 @@ Potential parameters that the user may want to specificy include but are not lim
 * xc (the functional you wish to use)
 * ivdw (set this tag to include van der waals corrections, our group typically uses ivdw = 12)
 * nsw (number of steps)
+* kpts
+* encut
 
 See vasp wiki for more information on various paramaters.
 
