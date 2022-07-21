@@ -1,8 +1,12 @@
 # Skills you should build
 
+- Field-specific knowledge
 - DFT
 - Python
-- software development
+- collaborative software development
+- Using HPC's
+- data science
+- ML
 - presentation skills
 - writing
 - communication
