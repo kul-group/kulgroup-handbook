@@ -18,6 +18,9 @@ Instructions
 Kultools creates an object which contains all the relevant information needed to successfully run a DFT calculation using vasp. 
 Below are some attributes of the KT class which can be adjusted for your specific system.
 
+## Gamma point
+If you need to run a gamma point calculation, set gamma_only = True when creating an instance of the kT class.
+
 ## Material type
 When creating and instance of the KT class, a structure_type must be specified. 
 
@@ -62,5 +65,21 @@ Potential parameters that the user may want to specificy include but are not lim
 * nsw (number of steps)
 
 See vasp wiki for more information on various paramaters.
+
+# Kultools directory output
+The current naming scheme for the directory created from your vasp run with kultools is as follows:
+
+directory = dir_name + '_' + str(func_for_dir) + '_' + str(encut_for_dir) + '_' + str(kpts_for_dir)
+
+where,
+
+* dir_name = the name of the calculation type (such as opt or spe)
+* func_for_dir = whatever functional you set for xc ( such as PBE)
+* encut_for_dir = whatever your encut value was set to 
+* kpts_for_dir = whatever your kpts were set to 
+
+Ex) opt_PBE_400_221/
+
+
 
 
