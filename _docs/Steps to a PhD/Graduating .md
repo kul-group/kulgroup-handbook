@@ -18,4 +18,4 @@
 6. Make sure that others have access to your old data and scripts, share the repositories
 7. Move things over to your non-school email and move important stuff off of school accounts, you will lose access a couple months after graduating
 8. Make sure to return any keys, computers, electronics, or other equipment
-9. 
+9. Add important knowledge to the group handbook. It's especially important to guide new students on how to get started on your project.
