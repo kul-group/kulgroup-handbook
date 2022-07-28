@@ -43,16 +43,50 @@ write('new_file.traj', structure)  # write a new file of the structure with the 
 
 
 ### Indexing
-indice_H = [atom.index for atom in atoms if atom.symbol=='H']
+need to add more
 
+```
+indice_H = [atom.index for atom in atoms if atom.symbol=='H']
+```
 
 ### Adding and deleting atoms
 atoms.append thing 
+
+You can combine two atoms objects using the + operator: combined_atoms = atoms1 + atoms2. 'combined_atoms' will have the unit cell shape of atoms1, so order of addition matters!
+
+So, for example, you can add a hydrogen atoms using:
+```
+from ase import Atom
+h_atom = Atom('H', (1, 1, 1)) # Creates an H atom at the (1, 1, 1) position
+structure_with_hydrogen = structure + h_atom  # new atoms object which has all the atoms in 'structure' and an H atom at (1, 1, 1)
+```
+
+You can make a molecule using:
+```
+from ase.build import molecule
+ch3oh = molecule('CH3OH')
+```
+
+You can build a metal surface slab using:
+```
+from ase.build import surface
+s1 = surface('Au', (2, 1, 1), 9)  # makes a gold surface along the [2 1 1] plane with 9 layers
+s1.center(vacuum=10, axis=2)  # centers the slab in the unit cell with 10 angstroms of vacuum along the y-axis
+```
 
 
 ### Moving and rotating atoms
 talk about translate and wrap
 
+Move a set of atoms using atoms.translate([x,y,z]) where x,y,z are the amounts to move in x/y/z direction (in angstroms).
+
+Rotate a set of atoms using:
+```
+atoms.rotate(90, 'z')  # rotates atoms 90 degrees around z-axis
+atoms.rotate(90, (0, 0, 1))  # rotates atoms 90 degrees around (0, 0, 1) vector (The z-axis)
+atoms.rotate('x', 'y')  # rotates the x-axis into the y-axis
+atoms.rotate((1, 0, 0), (0, 1, 0))  # rotates the (1, 0, 0) axis into the (0, 1, 0) axis
+```
 
 ### Neighbors
 Obtain the indicies of the neighbors of a particular atom using:
