@@ -17,12 +17,6 @@ has_toc: false
 1. TOC
 {:toc}
 
-### Step 1
-
-### Step 2
-
-### Step 3
-
 ## Writing
 
 ### Drafting
