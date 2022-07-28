@@ -8,18 +8,16 @@ has_toc: false
 ---
 
 # Learning ASE
+ASE is a python package using for setting up, manipulating, visualizing and analyzing atomic structures. 
 
-{: .no_toc }
-
-The following will guide you and point to the nessescary resources to learn ASE and try some basic exercises.
+Detailed documentation can be found here: https://wiki.fysik.dtu.dk/ase/#
 
 ## Table of contents
-{: .no_toc .text-delta }
+- Step1: Installation
 
-1. TOC
-{:toc}
-
-### Step 1
+### Step 1: Installation
+- Make sure you have already have python 3.6 or newer, Numpy downloaded.
+- The simplest way to install ase: 
 
 ### Step 2
 
