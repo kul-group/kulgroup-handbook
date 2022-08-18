@@ -4,7 +4,6 @@ These are short guides to getting started with other, specialized packages that 
 ## DeepMD
 
 
-
 ## QuantEXFS
 
 
@@ -14,4 +13,6 @@ These are short guides to getting started with other, specialized packages that 
 ## Microkinetic Modelling (MKM)
 
 
-## 
+## VMD and VESTA
+
+
