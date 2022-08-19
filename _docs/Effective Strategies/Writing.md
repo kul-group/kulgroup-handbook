@@ -17,8 +17,6 @@ has_toc: false
 1. TOC
 {:toc}
 
-## Writing
-
 ### Drafting
 
 1. Write a [detailed outline](https://ucdavis.app.box.com/file/438352310323?s=cc4uze59oyhcsrs1gpwn24vyqqo2i3ud). A detailed outline summarizes everything you want to say and the structure of what you are going to write.
