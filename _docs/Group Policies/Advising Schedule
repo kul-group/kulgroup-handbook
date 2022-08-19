@@ -4,7 +4,7 @@ title: Advising Schedule
 parent: 4. Group Policies
 has_children: false
 nav_order: 1
-has_toc: true
+has_toc: false
 ---
 
 # Advising Schedule
@@ -30,7 +30,6 @@ has_toc: true
 see the group webpage for the quarter schedule
 
 meeting schedule is 1x/week with focus on older students giving conference-like talks and younger students doing smaller updates
-
 
 
 ### Biannual review
