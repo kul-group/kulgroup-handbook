@@ -1,8 +1,26 @@
-# Getting Started
+---
+layout: default
+title: KulTools
+parent: 2. Learning the basics
+has_children: false
+nav_order: 6
+has_toc: true
+---
+
+# KulTools
+
+{: .no_toc }
+
 Clone the following repository to the HPC1, HPC2, and CORI.
 * https://github.com/kul-group/kultools
 
-# VASP Test
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+### VASP Test
 Instructions
 1. add `module load vasp/5.4.4` to your `.bashrc` file and reload it or reconnect 
 2. run file `00_make_molecule.py` by running `python3 00_make_molecule.py`
@@ -16,14 +34,14 @@ See below for making adjustments to the 01_sumbit_job.py script.
 
 
 
-# Adjusting parameters in submission script
+### Adjusting parameters in submission script
 Kultools creates an object which contains all the relevant information needed to successfully run a DFT calculation using vasp. 
 Below are some attributes of the KT class which can be adjusted for your specific system.
 
-## Gamma point
+### Gamma point
 If you need to run a gamma point calculation, set gamma_only = True when creating an instance of the kT class.
 
-## Material type
+### Material type
 When creating and instance of the KT class, a structure_type must be specified. 
 
 Available types:
@@ -36,7 +54,7 @@ These structure type tags are helpful in setting vasp parameters that are approp
 See kultools.py to see the parameters set for each material type. 
 See the 01_submit_job.py script for an example of how to set the structure_type.
 
-## Job type
+### Job type
 When running a DFT calculation in vasp, a calculation type must be specified.
 
 The following job types are available in the .set_calculation_type() module:
@@ -50,7 +68,7 @@ The following job types are available in the .set_calculation_type() module:
 
 See the 01_submit_job.py script for an example of how to set the calculation type.
 
-## Structure selection
+### Structure selection
 
 See the 01_submit_job.py script for an example of how to set the structure.
 Make sure periodic boundary conditions are set. 
@@ -58,7 +76,7 @@ Make sure periodic boundary conditions are set.
 * atoms.pbc=True
 * kt.set_structure(atoms)
 
-## Additional parameters
+### Additional parameters
 
 Any VASP parameters can be specified by using the .set_overall_vasp_params() module.
 Potential parameters that the user may want to specificy include but are not limitied to:
@@ -70,7 +88,7 @@ Potential parameters that the user may want to specificy include but are not lim
 
 See vasp wiki for more information on various paramaters.
 
-# Kultools directory output
+### Kultools directory output
 The current naming scheme for the directory created from your vasp run with kultools is as follows:
 
 directory = dir_name + '_' + str(func_for_dir) + '_' + str(encut_for_dir) + '_' + str(kpts_for_dir)
