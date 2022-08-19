@@ -14,6 +14,9 @@ has_toc: false
 ## Table of contents
 {: .no_toc .text-delta }
 
+1. TOC
+{:toc}
+
 ### Individual meeting schedule
 
 - different meeting schedules may work better for different students
