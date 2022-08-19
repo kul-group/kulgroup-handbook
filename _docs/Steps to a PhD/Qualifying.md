@@ -7,11 +7,15 @@ nav_order: 2
 has_toc: false
 ---
 
-# Preparing for the Qualifying exam 
+# Qualifying Examinations
 
-# Practising tips
+{: .no_toc }
 
-# Other essentials to know
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ### Qualifying Examination
 
@@ -22,11 +26,11 @@ It consists of a 30 minute presentation along with questions from the commitee w
 The focus of the presentation is to outline your research plan for the rest of your Ph.D., including previous research,
 theory, and a timeline for future work.
 
-#### Writing the Dissertation
+### Writing the Dissertation
 
 Your dissertation is a 10-15 page document where you summarize the background, proposed work, and preliminary results for your research. It is easiest to write your dissertation *after* you are mostly done making your slides, so that the two can be coherent. See the [writing section](Writing.md) for advice on how to write your dissertation. The group maintains past QE dissertations on [Box](https://ucdavis.app.box.com/folder/80871253566), use these as a guide.
 
-#### Advice
+### Pro-Tips
 
 1. An easy QE is just a well prepared QE. You got this!
 
