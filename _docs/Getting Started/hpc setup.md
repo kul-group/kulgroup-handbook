@@ -1,3 +1,11 @@
+---
+layout: default
+title: Using HPC in UC Davis
+parent: 1. Getting Started
+has_children: false
+nav_order: 4
+has_toc: false
+---
 
 ### STEP 1: creating HPC1 and HPC2 account
 
