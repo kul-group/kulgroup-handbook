@@ -17,17 +17,17 @@ has_toc: false
 1. TOC
 {:toc}
 
-## Build capacity first
+### Build capacity first
 
-## A/B/C time
+### A/B/C time
 
-## Saying No to things
+### Saying No to things
 
-## minimize meetings
+### Minimize meetings
 
-## set small goals
+### Set small goals
 
-## Avoid burnout
+### Avoid burnout
 - steady pacing/breaks, sustainable volume
 - Make sure you have support in the group; mention problems as they arise
 - 
