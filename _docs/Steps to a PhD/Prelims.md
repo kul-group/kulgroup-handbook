@@ -7,13 +7,16 @@ nav_order: 1
 has_toc: false
 ---
 
-# Preparing for the Prelim exam 
 
-# Choosing a paper
+# Preliminary Examination
 
-# Practising tips
+{: .no_toc }
 
-# Other essentials to know
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ### Preliminary Examination
 
@@ -40,12 +43,12 @@ Grace will send you a doodle poll asking for your availability and then sets up 
 |     Make reading related literature your daily routine till the time you   feel comfortable with your 2 main papers                                                   |     Though out the Spring quarter                                                                         |     Self                                                                                                                 |
 
 
-#### Useful:
+### Useful:
 Pick a paper that deals more with the core ECH courses of your choice/strength (eg. Pick a paper that talks more about thermo if you like thermo or kinetics or mass transfer etc.) PLAY ON YOUR STRENGTHS!!!
 Make sure you brush up Ambar’s kinetics class or any other class that you took which was taught by one of the Prelim committee members. Particularly, if it is related to your paper. 
 Please don’t over prepare. You need to know how much is too much or your brain crashes while answering. If the people you practiced with suggest that you are good, then that is it. Do not keep reading and digging further. 
 
-#### Slides:
+### Slides:
 Keep your slides uncomplicated.
 Try to come-up with a story for your slides to make sense.
 What is on the slides is what you will be asked.
