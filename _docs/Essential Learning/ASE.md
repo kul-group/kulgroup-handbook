@@ -7,21 +7,20 @@ nav_order: 4
 has_toc: false
 ---
 
-# Learning ASE
+# Atomic Simulation Environment
+
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+### Learning ASE
 ASE is a python package using for setting up, manipulating, visualizing and analyzing atomic structures. 
 
 Detailed documentation can be found here: https://wiki.fysik.dtu.dk/ase/#
-
-## Table of contents
-- Installation
-- Reading and Writing file
-- Indexing
-- Adding and deleting atoms
-- Moving and rotating atoms
-- Neighbors
-- ASE GUI
-- Working examples
-- Practices
 
 ### Installation
 - Make sure you have already have python 3.6 or newer, Numpy downloaded.
