@@ -1,4 +1,23 @@
-## Reading papers
+---
+layout: default
+title: Reading Papers
+parent: 3. Effective tips & strategies
+has_children: false
+nav_order: 3
+has_toc: false
+---
+
+# Reading Papers
+
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+### Reading papers
 
 This section goes over general advice for how to read papers, find relevant publications, organize your literature, and suggests which papers to read for each subgroup.
 
