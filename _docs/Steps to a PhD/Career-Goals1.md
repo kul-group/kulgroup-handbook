@@ -7,8 +7,15 @@ nav_order: 3
 has_toc: false
 ---
 
-# To be populated
+# Career Goals
 
+{: .no_toc }
 
-## Going into academia from a UCD PhD
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+### Going into academia from a UCD PhD
 
