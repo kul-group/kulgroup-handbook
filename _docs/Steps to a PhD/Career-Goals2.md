@@ -17,46 +17,46 @@ has_toc: false
 1. TOC
 {:toc}
 
-### Getting a Job in Industry
+## Getting a Job in Industry
 
-#### Skills
+### Skills
 Towards the latter half of your degree, it's important to think about the portfolio of skills you are building. You have more skills than you think, research in this group will build skills in materials simulation, programming, data analysis, and communication, among other things. Compare this to the skills you need for the job you want. If there is something you feel you are missing, talk to Ambar about doing a project that can emphasize that skill.
 
 There are some industry-specific skills which may not come up much during your research such as familiarity with SQL, AWS, or other techniques. Spend some time practicing these skills outside of research if needed.
 
-#### Displaying Your Skills
+### Displaying Your Skills
 
 Armed with this portfolio of skills, now you need to advertize them effectively:
 
-Linkedin:
+#### Linkedin
 - Create a Linkedin page and add a professional headshot
 - Make as many connections as possible with people you know
 - Write a short about section (~2 paragraphs). Use what other people have written as a guide.
 - Add jobs and achievements to your page, you can also add links to your papers
 
 
-Github:
+#### Github
 - Clean up existing scripts and add them to your Github account
 - Collaborate on projects within the group using Github
 - Practice pushing code to a personal repo and add to it regularly
 - For larger projects, write a clear README file and create a [Read the Docs](https://readthedocs.org/) for it.
 
-Resume/Cover Letter:
+#### Resume/Cover Letter
 Polish your CV and prepare a cover letter for the job you are applying to. Formatting is different for different fields so ask for an example from someone and ask people to look over your CV in informational interviews. 
 
 Also consider creating a Twitter account and/or a personal website.
 
 
-#### Networking
+### Networking
 
 A lot of people feel weird about networking, but it's an important part of finding a job and maintaining a professional network. Networking mostly comes down to meeting people during collaborations, conferences, or through friends. Your professional network can help you find a job in the future! 
 
 One important part of this is conducting "Informational Interviews" with people working in industry. 
 
-##### Finding people to interview
+#### Finding people to interview
 This is where your personal network comes in; ask people you know to connecting you with people in the industry you want to work in. You can also ask for a 1-on-1 meeting with people you interact with at conferences or in your collaborations. You can try reach out to people on Twitter, Linkedin, or cold-email though your success rate will be much lower if you don't know each other offline.
 
-##### Running an informational interview
+#### Running an informational interview
 Informational Interviews typically follow this pattern:
 1. Describe your background, interests, and career goals
 2. Ask your interviewee about their background and current position
@@ -80,5 +80,5 @@ Some other notes:
 - Take notes on what they say and try to ask good follow-up questions.
 - You may want to consider keeping in touch with this person over the long term by reaching out regularly or meeting them at conferences.
 
-#### Preparing for job interviews
+### Preparing for job interviews
 Different industries have different interview practices but you will want to prepare for a technical interview and a behavioral interview designed to assess personal fit. Look up what kinds of questions get asked in technical interviews in your field and prepare for them. Companies will also ask behavioral interview questions to assess personal fit, such as "describe a situation where you demonstrated integrity". To prepare for these, research the STAR interview technique and prepare for common behavioral interview quesitons. You will want to prepare a few stories about yourself that demonstrate good qualities and practice using them to answer interview questions.
