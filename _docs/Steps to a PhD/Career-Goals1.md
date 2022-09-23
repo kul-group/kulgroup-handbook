@@ -20,8 +20,8 @@ has_toc: false
 #### Ambar’s perspective on getting academic job in the US after a UC Davis PhD
 
 1. Finding jobs in academia is hard. The major challenge is that there are too few positions (tenure-track) available compared to the number of eligible candidates. This is especially true in “old” fields such as catalysis, where every university (top 50) will have some presence in this field.
-2.  Another (unfortunate) aspect is that academic-lineage matters quite a bit. Thus, it is common that top schools (top 10) will tend to hire applicants who did their UG, PhD and/or post doc from top research groups (this tends to correlate with top “ranked” institutions). Indeed, a candidate with MIT/Stanford/Caltech in their resume will have an inherent advantage in interviews, especially at top 10 universities. This is unavoidable, so make peace with it. This is not true to the same extent for 10 - 50 ranked universities. 
-3.   If the goal is to obtain an academic position in the US, then you need:
+2. Another (unfortunate) aspect is that academic-lineage matters quite a bit. Thus, it is common that top schools (top 10) will tend to hire applicants who did their UG, PhD and/or post doc from top research groups (this tends to correlate with top “ranked” institutions). Indeed, a candidate with MIT/Stanford/Caltech in their resume will have an inherent advantage in interviews, especially at top 10 universities. This is unavoidable, so make peace with it. This is not true to the same extent for 10 - 50 ranked universities. 
+3. If the goal is to obtain an academic position in the US, then you need:
     - A productive PhD at UC Davis (i.e., a good number of first or co-first author publications in top journals, new science insights, or developing new tools)
     - A strong postdoc at a top 10 school and/ or a highly renowned research group
     - Strong communication skills (i.e., write a strong research proposal, give engaging research talks, and interview well in-person)
