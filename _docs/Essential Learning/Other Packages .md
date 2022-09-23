@@ -19,8 +19,8 @@ These are short guides to getting started with other, specialized packages that 
 1. TOC
 {:toc}
 
-### DeepMD
-(under construction)
+### DeePMD
+[DeePMD](https://github.com/deepmodeling/deepmd-kit) is a package that learns interatomic potentials using molecular dynamics data. Ty has created an additional package called [DPTools](https://github.com/tysours/DPTools) which streamlines the process of training a model using DeePMD. See the documentation [here](https://dptools.readthedocs.io/en/latest/) for further details.
 
 
 ### QuantEXFS
