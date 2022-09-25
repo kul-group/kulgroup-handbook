@@ -81,4 +81,6 @@ Some other notes:
 - You may want to consider keeping in touch with this person over the long term by reaching out regularly or meeting them at conferences.
 
 ### Preparing for job interviews
-Different industries have different interview practices but you will want to prepare for a technical interview and a behavioral interview designed to assess personal fit. Look up what kinds of questions get asked in technical interviews in your field and prepare for them. Companies will also ask behavioral interview questions to assess personal fit, such as "describe a situation where you demonstrated integrity". To prepare for these, research the STAR interview technique and prepare for common behavioral interview quesitons. You will want to prepare a few stories about yourself that demonstrate good qualities and practice using them to answer interview questions.
+Different industries have different interview practices but you will want to prepare for a technical interview and a behavioral interview designed to assess personal fit. 
+
+Look up what kinds of questions get asked in technical interviews in your field and prepare for them. Companies will also ask behavioral interview questions to assess personal fit, such as "describe a situation where you demonstrated integrity". To prepare for these, research the STAR interview technique and prepare for common behavioral interview quesitons. You will want to prepare a few stories about yourself that demonstrate good qualities and practice using them to answer interview questions.
