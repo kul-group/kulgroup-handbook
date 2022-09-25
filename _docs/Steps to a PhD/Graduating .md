@@ -25,7 +25,7 @@ has_toc: false
 
 3. Schedule your exit seminar
 
-4. Sign some paperwork
+4. Paperwork
 
 5. Exit interview:
 - What advice do you have to improve the group?
@@ -34,7 +34,7 @@ has_toc: false
 - What could be improved?
 - What is next?
 - How can we reach you in the future?
-- 
+
 7. Make sure that others have access to your old data and scripts, share the repositories
 
 9. Move things over to your non-school email and move important stuff off of school accounts, you will lose access a couple months after graduating
