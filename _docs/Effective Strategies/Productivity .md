@@ -17,6 +17,8 @@ has_toc: false
 1. TOC
 {:toc}
 
+*Note: This advice is merely a suggestion, everyone has a different approach to productivity that works for them.*
+
 ### Build capacity first
 
 It may *feel* like you can get more stuff done by focusing on small, object-level tasks. For example, you might be tempted to prepare and run many atomic structures individually (spending a large amount of time on each job) in order to avoid writing a script that can automate this task. However, it is far more important for you to streamline the way you work, especially early in your research. Though it will come with some time investment, automating routine tasks will make you much more productive in the long run.
