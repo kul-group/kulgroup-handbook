@@ -8,11 +8,13 @@ has_toc: false
 ---
 # Conferences
 
-You should go to conferences, if you find one you like ask Ambar. Pacing should be 1x per year, and during last year should go to XX conferences
+Going to conferences is a valuable way to share your research, network, and learn about trends in your field. Aim to attend 1-2 conferences per year if possible. If you find a conference you would like to attend, talk to Ambar about it and come up with a plan for what you might present there.
 
-Some conferences to consider attending:
-
-Some workshops you should consider
+Some conferences or workshops you may want to attend:
+- SUNCAT
+- NAM
+- ACS
+- PCCS
 
 
 
