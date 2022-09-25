@@ -21,30 +21,28 @@ has_toc: false
 
 - different meeting schedules may work better for different students
 
-- at beginning of time in group, will meet ~1x/week with Ambar with additional meetings as necessary
+- At beginning of your tenure in the group, you will meet ~1x/week with Ambar with additional meetings as necessary
 
-- 3rd years will move to roughly biweekly meetings or meet as needed w/ Ambar
+- 3rd years will meet once every 2 weeks with additional meetings with Ambar or collaborators as needed
 
 ### Group meeting schedule
 
-see the group webpage for the quarter schedule
+- See the group webpage for the quarterly schedule
 
-meeting schedule is 1x/week with focus on older students giving conference-like talks and younger students doing smaller updates
+- Meeting schedule is 1x/week with focus on older students giving conference-like talks and newer students doing smaller updates or practicing for QE/Prelim.
 
 
 ### Biannual review
 
-have biannual review with Ambar, make sure to address:
+Each student should have a twice annual review with Ambar. Make sure to address:
 
-1. Are you being productive on the current project? What might be slowing you down?
+1. Are you being productive on the current project? What is going well? What could be improved? What might be slowing you down?
 
-2. Do you have sufficient support to complete your projects? 
+2. Do you have sufficient support to complete your projects? Is your workload to heavy or light?
 
-3. What can Ambar do better?
+3. What has Ambar been doing well? What can Ambar do better? 
 
-4. What can you do better?
-
-5. What have you been doing well?
+4. What have you been doing well? What can you do better?
 
 5. Do you feel like you are building skills to set you up for your career?
 
