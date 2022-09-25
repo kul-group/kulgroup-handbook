@@ -17,7 +17,7 @@ has_toc: false
 1. TOC
 {:toc}
 
-*Note: This advice is merely a suggestion, everyone has a different approach to productivity that works for them.*
+*Note: This advice is merely a suggestion, take some time to figure out what keeps you productive.*
 
 ### Build capacity first
 
