@@ -19,7 +19,7 @@ has_toc: false
 
 ### Build capacity first
 
-It may *feel* like you can get more stuff done by focusing on small, object-level tasks. Early in your research, you might be tempted to prepare and run many atomic structures individually (spending a large amount of time on each job) in order to avoid writing a script to automate this task. However, it is far more important for you to streamline the way you work. Though it will come with some time investment, automating routine tasks will make you much more productive in the long run.
+It may *feel* like you can get more stuff done by focusing on small, object-level tasks. For example, you might be tempted to prepare and run many atomic structures individually (spending a large amount of time on each job) in order to avoid writing a script that can automate this task. However, it is far more important for you to streamline the way you work, especially early in your research. Though it will come with some time investment, automating routine tasks will make you much more productive in the long run.
 
 Towards the beginning of a project, when you have a good sense of the types of tasks you will need to perform, set aside some time to get organized and write scripts to accelerate these tasks. When you get to the data-processing stage of your work, put an emphasis on automatically obtaining data from output files and plotting it, this is much faster and less error prone than processing data "by hand".
 
@@ -53,9 +53,11 @@ Meetings (especially with your advisor) can be helpful. However, you can end up 
 - Set the frequency of meetings based on the pace of research. You should meet with collaborators only when you have enough results to show and discuss. For outside collaborations, meeting once every ~3 weeks seems to be appropriate.
 - Meetings tend to use up all of their alloted time. It's usually better to set short meeting times and move quickly; 30 minute meetings are a good default when meeting with Ambar or students in the group. Less frequent meetings with collaborators may require 45 minutes or an hour.
 - Keep meetings small, it's very hard for large groups of people to be productive in meetings. Try to avoid large, unproductive meetings as much as possible.
+- Try to schedule meetings during your "C time" and avoid having meetings during your "A time"
 
 ### Work Sustainably
 It's important to ensure that your research effort is sustainable over the long term. It will take years to complete your degree, so you have to maintain healthy habits and steady effort over this period.
+- Prioritize your mental and physical health 
 - Set reasonable goals for yourself
 - Keep a steady pace and take regular breaks during the day. Make sure you are taking appropriate time off, getting enough sleep, and have time to do stuff outside of work.
 - Make sure you have support within the group, department, or university. Its important to find people you can talk to when issues arise. Try to identify problems early and address them.
