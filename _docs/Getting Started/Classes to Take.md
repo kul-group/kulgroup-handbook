@@ -24,6 +24,7 @@ has_toc: false
 1) STA 206: Statistical Methods for Research 1 (R).   
 2) STA 209: Optimization for Big Data Analytics.   
 3) ECS 032B: Introduction to Data Structures (Python).   
+4) CHE 211A: Statistical Thermodynamics (Python).
 
 ## Winter: Courses + Feedback
 
@@ -35,6 +36,7 @@ has_toc: false
 #### Elective
 
 1) STA 220: Data & Web Technologies for Data Analysis (R/ Python).   
+2) CHE 210A: Quantum Chemistry: Introduction and Stationary-State Properties.
 
 ## Spring: Courses + Feedback
 
