@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Using HPC in UC Davis
+title: Python Scripts
 parent: 1. Getting Started
 has_children: false
 nav_order: 4
