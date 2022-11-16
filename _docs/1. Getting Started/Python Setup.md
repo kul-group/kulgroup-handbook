@@ -17,7 +17,8 @@ The following will guide you on how to setup and use python for the simulations 
 
 {: .no_toc .text-delta }
 
-1. TOC
+### TOC
+
 {:toc}
 
 ### Step 1
