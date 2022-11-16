@@ -14,13 +14,15 @@ has_toc: false
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
+TOC
 {:toc}
+
+Familiarize yourself with this package throughly. 
 
 ### Learning ASE
 ASE is a python package using for setting up, manipulating, visualizing and analyzing atomic structures. 
 
-Detailed documentation can be found here: https://wiki.fysik.dtu.dk/ase/#
+Detailed documentation can be found here: [ASE](https://wiki.fysik.dtu.dk/ase/#)
 
 ### Installation
 - Make sure you have already have python 3.6 or newer, Numpy downloaded.
@@ -38,7 +40,7 @@ from ase.io import read, write
 structure = read('atoms_file.cif')  # create atoms object named 'structure' by reading the file named atoms_file.cif
 write('new_file.traj', structure)  # write a new file of the structure with the name new_file.traj
 ```
-- Detailed instruction: https://wiki.fysik.dtu.dk/ase/ase/io/io.html
+- Detailed instruction: [File Reading](https://wiki.fysik.dtu.dk/ase/ase/io/io.html)
 
 
 ### Indexing
@@ -125,9 +127,7 @@ Detailed instruction: https://wiki.fysik.dtu.dk/ase/ase/gui/gui.html?highlight=a
 
 ### Working examples
 
-
-
-### Practices
+[ASE Tutorials](https://wiki.fysik.dtu.dk/ase/tutorials/tutorials.html)
 
 
 

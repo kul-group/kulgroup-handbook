@@ -20,7 +20,7 @@ The following will guide you and point to the nessescary resources to learn the 
 {:toc}
 
 ### Getting Started with Bash: Basic Commands
-This is a basic introduction to the most commonly used bash commands. A more detailed tutorial can be found [here](Command_Line.md#command-line). You can practice most of this on your local machine. Essentially, the command line allows you to move around your computer, make new files, edit documents, and run simple programs. While this is easy to do on your local machine using Finder or Anaconda, when using a HPC, almost everything must be done using the command line. To start, open iTerm or other terminal software.
+This is a basic introduction to the most commonly used bash commands. A more detailed tutorial can be found [here](https://ryanstutorials.net/bash-scripting-tutorial/). You can practice most of this on your local machine. Essentially, the command line allows you to move around your computer, make new files, edit documents, and run simple programs. While this is easy to do on your local machine using Finder or Anaconda, when using a HPC, almost everything must be done using the command line. To start, open iTerm or other terminal software.
 
 ### Moving Around
 - See what directory you are in at anytime by typing `pwd` (and then pressing enter)

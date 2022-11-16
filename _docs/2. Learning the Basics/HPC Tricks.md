@@ -1,24 +1,19 @@
 ---
 layout: default
-title: Using HPC in UC Davis
-parent: 1. Getting Started
+title: HPC Tricks
+parent: 2. Learning the basics
 has_children: false
-nav_order: 4
+nav_order: 5
 has_toc: false
 ---
 
 ### STEP 1: creating HPC1 and HPC2 account
 
-you will need to create SSH keys
-- open the terminal and type `$ ssh-keygen`
-- suggestion: empty the passphrase if you dont have one
-- you would generate a public key and a private key. keep the private key for yourself safe.
-- sent the public key to https://wiki.cse.ucdavis.edu/cgi-bin/engr.pl for hpc1 setup.
-
-once you have done, you can login your hpc1 account through `$ ssh-XY username@hpc1.ucdavis.engr.edu`
-
-useful website for using ssh keys: https://www.youtube.com/watch?v=du-nWMCRkqE&t=209s
-
+Once you have created your HPC accounts (details [here](_docs/../../1.%20Getting%20Started/HPC%20&%20Workstation%20Setup.md)) you can login your hpc1 account through 
+```
+ssh-XY username@hpc1.ucdavis.engr.edu
+ssh-XY username@hpc2.ucdavis.engr.edu
+```
 
 ### STEP 2: creating .bashrc file on the terminal
 
