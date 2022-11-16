@@ -21,22 +21,11 @@ The following will guide you and point to the nessescary resources to learn pyth
 1. TOC
 {:toc}
 
-# Getting Started with Python
-
-{: .no_toc }
-
-## Table of contents
-
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ### Getting started
 
 Make sure you have Anaconda downloaded and an IDE to write code in.
 
-#### Using PyCharm
+### Using PyCharm
 
 PyCharm is a dedicated Python Integrated Development Environment (IDE) providing a wide range of essential tools for Python developers, tightly integrated to create a convenient environment for productive Python, web, and data science development. You could download the package through this website: (<https://www.jetbrains.com/pycharm/>). It is free for students if you apply for their free educational license: (<https://www.jetbrains.com/community/education/#students>). Note that you would need to renew the license annually.
 
