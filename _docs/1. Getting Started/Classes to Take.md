@@ -37,6 +37,8 @@ has_toc: false
     2) CHE 210A: Quantum Chemistry: Introduction & Stationary-State Properties
     3) PHY 140A: Introduction to Solid State Physics
     4) ECS 036A: Programming & Problem Solving
+    5) CHE 211B: Statistical Mechanics
+    6) CHE 100: Environmental Water Chemistry (Feedback: Introductory computational methods course)
 
 ## Spring: Courses + Feedback
 
