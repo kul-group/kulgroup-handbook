@@ -35,10 +35,17 @@ has_toc: false
 
 ### Elective
 
+<<<<<<< HEAD
 1) STA 220: Data & Web Technologies for Data Analysis (R/ Python).
 2) CHE 210A: Quantum Chemistry: Introduction & Stationary-State Properties
 3) PHY 140A: Introduction to Solid State Physics
 4) ECS 036A: Programming & Problem Solving
+=======
+1) STA 220: Data & Web Technologies for Data Analysis (R/ Python).   
+2) CHE 210A: Quantum Chemistry: Introduction & Stationary-State Properties.
+4) PHY 140A: Introduction to Solid State Physics.
+5) ECS 036A: Programming & Problem Solving.
+>>>>>>> 6d5f98c3ffd4631ddea8ef4cbe90ccd4f3cb950f
 
 ## Spring: Courses + Feedback
 
@@ -49,4 +56,8 @@ has_toc: false
 3) EMS 285: Advanced Computational Materials Science (Python).
 4) CHE 210B: Quantum Chemistry: Time-Dependent Systems
 
+<<<<<<< HEAD
 Feel free to take any other course you might find interesting and related, if you like it add it here. Do note that the lower division undergraduate courses (000-100) do not apply for credits towards your graduate degree.
+=======
+Feel free to take any other course you might find interesting and related, if you like it add it here. Do note that the lower division undergraduate courses (000-100) do not apply for credits towards your graduate degree. 
+>>>>>>> 6d5f98c3ffd4631ddea8ef4cbe90ccd4f3cb950f
