@@ -4,28 +4,24 @@ title: HPC & Workstation Setup
 parent: 1. Getting Started
 has_children: false
 nav_order: 1
-has_toc: false
+has_toc: True
 ---
 
 # Setting up
 
-{: .no_toc }
+Follow the below instructions to get setup in the group
 
-## Table of contents
-
-{:toc}
-
-### Procedure for Mac + Monitors and office space
+## Procedure for Mac + Monitors and office space
 
 - Ambar will have to order the Mac and Monitor + peripherals for you once you join the group.
 - Ask Ambar to add you to prepurchasing so it is easier to get reimbursed for conferences and travel in the future.
 - Speak to the other group members to find out your office space assignment and location.
 
-### Account Setup
+## Account Setup
 
 This section lists the various places you should set up an account using your UC Davis credentials. Having access to the sites in the section below will be necessary for doing your research and collaborating with the group. Having accounts in the non-essential section are useful but less important.
 
-### Essential
+## Essential
 
 - [Box](https://ucdavis.app.box.com/): Login through UC Davis and have Ambar add you to the group box
 
@@ -44,7 +40,7 @@ This section lists the various places you should set up an account using your UC
 
 - [Github](https://github.com/): Create an account and have a group member add you to the [kul-group](https://github.com/kul-group) organization.
 
-### Non-Essential Software
+## Non-Essential Software
 
 - [Zotero](https://www.zotero.org/) or [Mendeley](https://www.mendeley.com/?interaction_required=true): for reference management
 
