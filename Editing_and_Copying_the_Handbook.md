@@ -1,6 +1,6 @@
 ### Editing and Copying the Handbook
 
-This page is for future users who want to edit this handbook or who want to make a handbook of their own. 
+This page is for future users who want to edit this handbook or who want to make a handbook of their own.
 
 **Fork a Copy:** The easiest way to adapt this handbook is to clone the Group Handbook repo from the Kulkarni Group [Github](https://github.com/kul-group) and edit it yourself. See below for editing details.
 
@@ -24,4 +24,4 @@ Put several hashes in front of your heading, more hashes means a smaller heading
 
 #### Publishing as a website
 
-[Github Pages](https://pages.github.com/) makes it easy to convert a repo directly into a website, however, it can be pretty expensive if you have several contributors to a repo. Additionally, the repository has to be public to produce a website. You can host the website for free and incorporate new contributions by making a public repository in someone's *individual* account, cloning the original handbook repository to it, and, in your new repository settings, selecting a source and theme for your webpage in the "GitHub Pages" section. You can incorporate new changes by adding them to the individual repository which supports the website. 
+[Github Pages](https://pages.github.com/) makes it easy to convert a repo directly into a website, however, it can be pretty expensive if you have several contributors to a repo. Additionally, the repository has to be public to produce a website. You can host the website for free and incorporate new contributions by making a public repository in someone's *individual* account, cloning the original handbook repository to it, and, in your new repository settings, selecting a source and theme for your webpage in the "GitHub Pages" section. You can incorporate new changes by adding them to the individual repository which supports the website.

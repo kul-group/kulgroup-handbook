@@ -14,6 +14,7 @@ has_toc: false
 The following will guide you on how to setup and use python for the simulations being run by the group.
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
@@ -27,6 +28,7 @@ The following will guide you on how to setup and use python for the simulations 
 - [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) you can get the Professional edition with your UC Davis student account
 
 ### Step 2
+
 Go over these tutorials in detail
 
 - [Getting started with Anaconda](https://docs.anaconda.com/anaconda/user-guide/getting-started/)

@@ -6,4 +6,4 @@ nav_order: 5
 has_toc: true
 ---
 
-# Details about the prelims and Qualifying exams and how to prepare for them. 
+# Details about the prelims and Qualifying exams and how to prepare for them

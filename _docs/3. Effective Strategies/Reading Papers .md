@@ -12,6 +12,7 @@ has_toc: false
 {: .no_toc }
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
@@ -23,9 +24,9 @@ This section goes over general advice for how to read papers, find relevant publ
 
 ### Reading Tips
 
-- Use Mendeley or other reference manager to organize the literature. Use the watch folder functionality. 
+- Use Mendeley or other reference manager to organize the literature. Use the watch folder functionality.
 
-- Read in the following order: conclusions/summary --> intro --> figures/captions --> whole paper. 
+- Read in the following order: conclusions/summary --> intro --> figures/captions --> whole paper.
 
 - Summarize the main results in a power point slide.
 
@@ -61,7 +62,7 @@ This section goes over general advice for how to read papers, find relevant publ
 
 - Maintain a slide deck for each important subtopic with paper summaries. This will make it easy to do your lit reviews.
 
-- Use your reference manager's tagging feature to note which papers are important, unread, challenging etc. 
+- Use your reference manager's tagging feature to note which papers are important, unread, challenging etc.
 
 - Each time you download a paper, make sure the citation information is correct, do not blindly trust your reference manager! You can often download the correct citation from the webpage you downloaded your paper from. This will save you *a lot* of time when you are making a bibliography
 

@@ -12,6 +12,7 @@ has_toc: false
 {: .no_toc }
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
@@ -38,9 +39,9 @@ Your dissertation is a 10-15 page document where you summarize the background, p
 
 3. Practice in January with a few different people, make changes.
 
-4. Get the low-down on professors and schedule the exam ASAP to make the stress real. Scheduling time with 5 professors is hard **so do this at least 3 months in advance** 
+4. Get the low-down on professors and schedule the exam ASAP to make the stress real. Scheduling time with 5 professors is hard **so do this at least 3 months in advance**
 
-5. 2 months before the exam, regularly by yourself with slides, then eventually without slides, burn the images and words into your memory. Daniel did this while walking to get in exercise and learn to change attention. 
+5. 2 months before the exam, regularly by yourself with slides, then eventually without slides, burn the images and words into your memory. Daniel did this while walking to get in exercise and learn to change attention.
 
 6. Questions will come up in your head, find the answers if unknown and practice answering during solo practice too.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Essential Reading 
+title: Essential Reading
 parent: 2. Learning the basics
 has_children: false
 nav_order: 5
@@ -12,6 +12,7 @@ has_toc: false
 {: .no_toc }
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
@@ -19,12 +20,12 @@ has_toc: false
 
 ### Resource 1
 
-Name + Link 
+Name + Link
 
 ### Resource 2
 
-Name + Link 
+Name + Link
 
 ### Resource 3
 
-Name + Link 
+Name + Link

@@ -12,6 +12,7 @@ has_toc: false
 {: .no_toc }
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
@@ -31,7 +32,6 @@ has_toc: false
 
 - Meeting schedule is 1x/week with focus on older students giving conference-like talks and newer students doing smaller updates or practicing for QE/Prelim.
 
-
 ### Biannual review
 
 Each student should have a twice annual review with Ambar. Make sure to address:
@@ -40,11 +40,10 @@ Each student should have a twice annual review with Ambar. Make sure to address:
 
 2. Do you have sufficient support to complete your projects? Is your workload to heavy or light?
 
-3. What has Ambar been doing well? What can Ambar do better? 
+3. What has Ambar been doing well? What can Ambar do better?
 
 4. What have you been doing well? What can you do better?
 
 5. Do you feel like you are building skills to set you up for your career?
 
 6. What is your timeline for graduation? What is the order of projects and their timeline?
-

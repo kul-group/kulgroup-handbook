@@ -1,6 +1,6 @@
 ### Theory
 
-Though a full understanding of the theory behind our research is not essential for day-to-day work, 
+Though a full understanding of the theory behind our research is not essential for day-to-day work,
 knowing the math behind the techniques we use is important for your exams, helps when things go
 wrong, and is essential for understanding results. Here are some resources to understand each subject.
 
@@ -9,7 +9,6 @@ Note that PDF's of some of these textbooks (and others) can be found in [books](
 #### DFT
 
 *Density Functional Theory: A Practical Introduction* by Sholl (Ambar's PhD advisor!) and Steckel. Chapters 1 and 3 are a good introduction. Chapters 5 and 6 are important as you get further into research.
-
 
 #### Machine Learning
 

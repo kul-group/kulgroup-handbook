@@ -25,7 +25,7 @@ has_toc: false
 
 ### Outside References
 
-- [Seaborn](https://seaborn.pydata.org/tutorial.html) is a Python package which can make better, more sophisticated plots than matplotlib 
+- [Seaborn](https://seaborn.pydata.org/tutorial.html) is a Python package which can make better, more sophisticated plots than matplotlib
 
 - [Designing Images for Colorblind People](https://designshack.net/articles/accessibility/tips-for-designing-for-colorblind-users/)
 

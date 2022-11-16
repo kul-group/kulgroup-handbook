@@ -12,6 +12,7 @@ has_toc: false
 {: .no_toc }
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
@@ -28,17 +29,17 @@ has_toc: false
 4. Paperwork
 
 5. Exit interview:
-- What advice do you have to improve the group?
-- What project ideas do you have?
-- What went well during your degree?
-- What could be improved?
-- What is next?
-- How can we reach you in the future?
+   - What advice do you have to improve the group?
+   - What project ideas do you have?
+   - What went well during your degree?
+   - What could be improved?
+   - What is next?
+   - How can we reach you in the future?
 
-7. Make sure that others have access to your old data and scripts, share the repositories
+6. Make sure that others have access to your old data and scripts, share the repositories
 
-9. Move things over to your non-school email and move important stuff off of school accounts, you will lose access a couple months after graduating
+7. Move things over to your non-school email and move important stuff off of school accounts, you will lose access a couple months after graduating
 
-11. Make sure to return any keys, computers, electronics, or other equipment
+8. Make sure to return any keys, computers, electronics, or other equipment
 
-13. Add important knowledge to the group handbook. It's especially important to guide new students on how to get started on your project.
+9. Add important knowledge to the group handbook. It's especially important to guide new students on how to get started on your project.

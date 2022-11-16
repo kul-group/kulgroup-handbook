@@ -15,6 +15,7 @@ has_toc: false
 The following will guide you and point to the nessescary resources to learn python and try some basic exercises.
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,25 +26,27 @@ The following will guide you and point to the nessescary resources to learn pyth
 {: .no_toc }
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
 ### Getting started
-Make sure you have Anaconda downloaded and an IDE to write code in. 
 
+Make sure you have Anaconda downloaded and an IDE to write code in.
 
 #### Using PyCharm
-PyCharm is a dedicated Python Integrated Development Environment (IDE) providing a wide range of essential tools for Python developers, tightly integrated to create a convenient environment for productive Python, web, and data science development. You could download the package through this website: (https://www.jetbrains.com/pycharm/). It is free for students if you apply for their free educational license: (https://www.jetbrains.com/community/education/#students). Note that you would need to renew the license annually.
+
+PyCharm is a dedicated Python Integrated Development Environment (IDE) providing a wide range of essential tools for Python developers, tightly integrated to create a convenient environment for productive Python, web, and data science development. You could download the package through this website: (<https://www.jetbrains.com/pycharm/>). It is free for students if you apply for their free educational license: (<https://www.jetbrains.com/community/education/#students>). Note that you would need to renew the license annually.
 
 ### Python practice problems
-See here (https://www.practicepython.org) for good python practice problems. Once you are comfortable with manipulating lists, for loops, and if/else statements, focus on the ASE practice problems. You will learn the more complicated stuff later.
 
+See here (<https://www.practicepython.org>) for good python practice problems. Once you are comfortable with manipulating lists, for loops, and if/else statements, focus on the ASE practice problems. You will learn the more complicated stuff later.
 
 ### Python Documentation
-See here (https://docs.python.org/3/) for the documentation. 
 
+See here (<https://docs.python.org/3/>) for the documentation.
 
 ### Some Specific Guidelines for Writing Code
 
@@ -57,12 +60,11 @@ See here (https://docs.python.org/3/) for the documentation.
 
 - Search for help, then ask for help. A lot of coding issues can be resolved by a websearch. If you are stuck, first search for solutions to your problem online. Usually this will resolve your issue within 20 minutes. If you are still stuck, it is important that you ask the group for help (this can save you a lot of time!). Message the group on Slack with your problem and attempted solutions. If that doesn't work, ask someone to look over your code with you, oftentimes a new person will be able to see what you are missing.
 
-
 ### High Level Python Guidelines
 
 Summarized from materials covered in ECS 32B.
 
-#### Two Major Topics:
+#### Two Major Topics
 
 ##### Object-oriented programming (OOP)
 
@@ -72,7 +74,7 @@ OOP is a coding style where we define both the type of the data structures and f
 
 Understanding data structures, such as arrays, trees, heaps, graphs and Python built-ins, allows programmers to store information where it can be accessed efficiently (Beginner theorists may not be needing this as much as OOP)
 
-### Some Smaller Topics:
+### Some Smaller Topics
 
 ##### Debug & Unit testing
 
@@ -87,6 +89,6 @@ Type hints are hints that are given to the variables; for example, the inputs an
 Objects with similar properties can inherit characteristics from the parent object without rewriting everything from the parent object. For example, different types of zeolite objects such as MFI inherits from the zeolite class. The child objects can also override the methods inherited from the parent.
 
 #### References
-1. https://david.goodger.org/projects/pycon/2007/idiomatic/handout.html
-2. https://www.python.org/dev/peps/pep-0008/
 
+1. <https://david.goodger.org/projects/pycon/2007/idiomatic/handout.html>
+2. <https://www.python.org/dev/peps/pep-0008/>

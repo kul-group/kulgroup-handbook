@@ -6,4 +6,4 @@ nav_order: 2
 has_toc: true
 ---
 
-# Here tutorials and documentation have been provided to help you learn the basics of the various tools used by the group.
+# Here tutorials and documentation have been provided to help you learn the basics of the various tools used by the group

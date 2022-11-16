@@ -12,6 +12,7 @@ has_toc: false
 {: .no_toc }
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
@@ -54,5 +55,3 @@ You can look at old presentations on the group Box folder as a reference, pay at
 2. Anticipate questions. Ask many people for their potential questions on each slide and figure out what answer you would give to these questions during your actual presentation. Add backup slides as needed to answer questions.
 
 3. Work on any speaking difficulties you might have. If you find yourself saying 'um' and 'uh' a lot, practice pausing to gather your thoughts. If you find yourself having anxiety about your presentation, talk to some group members about how they dealt with it or look into resources for dealing with performance anxiety.
-
-

@@ -12,6 +12,7 @@ has_toc: false
 {: .no_toc }
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
@@ -26,7 +27,8 @@ It may *feel* like you can get more stuff done by focusing on small, object-leve
 Towards the beginning of a project, when you have a good sense of the types of tasks you will need to perform, set aside some time to get organized and write scripts to accelerate these tasks. When you get to the data-processing stage of your work, put an emphasis on automatically obtaining data from output files and plotting it, this is much faster and less error prone than processing data "by hand".
 
 Some things to consider:
-- The group has written a lot of scripts which can carry out routine atomic manipulations and prepare input structures for you. Consider adapting this code to the task at hand. 
+
+- The group has written a lot of scripts which can carry out routine atomic manipulations and prepare input structures for you. Consider adapting this code to the task at hand.
 - There are basic scripts to submit many computational jobs in parallel and several DFT steps can be packaged into a single job with the kT package.
 - The linux command line has powerful tools to manipulate files, edit text, and synchronize files across computers, look into these solutions when you want to reorganize your files
 - There may be scripts within the group that can be used to plot data. You will want to write scripts to plot data that can easily be reused for new datasets.
@@ -35,7 +37,7 @@ Some things to consider:
 
 One useful approach is to divide your time based on how your productivity changes throughout the day. Break your goals up into small tasks, consider how demanding each task is, and schedule them into one of these bins:
 
-"A time" is reserved for your most important and urgent tasks. This is typically the most cognitively demanding part of your day when you need to focus most. Tasks like writing, coding, or data analysis might fit here. Determine what time in your day you are most productive, and reserve that time to work. Turn off distractions (including Slack) and avoid meetings during this time. Many people find early mornings to be most productive, but everyone is different. 
+"A time" is reserved for your most important and urgent tasks. This is typically the most cognitively demanding part of your day when you need to focus most. Tasks like writing, coding, or data analysis might fit here. Determine what time in your day you are most productive, and reserve that time to work. Turn off distractions (including Slack) and avoid meetings during this time. Many people find early mornings to be most productive, but everyone is different.
 
 "B time" is reserved for slightly less demanding tasks like presentations, teaching, or reading papers. You might schedule these tasks after lunch for example.
 
@@ -58,8 +60,10 @@ Meetings (especially with your advisor) can be helpful. However, you can end up 
 - Try to schedule meetings during your "C time" and avoid having meetings during your "A time"
 
 ### Work Sustainably
+
 It's important to ensure that your research effort is sustainable over the long term. It will take years to complete your degree, so you have to maintain healthy habits and steady effort over this period.
-- Prioritize your mental and physical health 
+
+- Prioritize your mental and physical health
 - Set reasonable goals for yourself
 - Keep a steady pace and take regular breaks during the day. Make sure you are taking appropriate time off, getting enough sleep, and have time to do stuff outside of work.
 - Make sure you have support within the group, department, or university. Its important to find people you can talk to when issues arise. Try to identify problems early and address them.
