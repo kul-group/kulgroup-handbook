@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Python Scripts
-parent: 1. Getting Started
+parent: 2. Learning the Basics
 has_children: false
-nav_order: 4
+nav_order: 8
 has_toc: false
 ---
 
