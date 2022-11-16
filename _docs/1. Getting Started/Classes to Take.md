@@ -47,5 +47,6 @@ has_toc: false
 1) STA 221: Big Data & High Performance Statistical Computing (Python).   
 2) STA 208: Statistical Methods in Machine Learning.   
 3) EMS 285: Advanced Computational Materials Science (Python).   
+4) CHE 210B: Quantum Chemistry: Time-Dependent Systems
 
 Feel free to take any other course you might find interesting and related, if you like it add it here. Do note that the lower division undergraduate courses (000-100) do not apply for credits towards your graduate degree. 

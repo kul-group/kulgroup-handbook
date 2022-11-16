@@ -16,7 +16,7 @@ The following will guide you and point to the nessescary resources to learn how 
 ## Table of contents
 {: .no_toc .text-delta }
 
-TOC
+1. TOC
 {:toc}
 
 ### Github
