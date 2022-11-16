@@ -36,9 +36,9 @@ has_toc: false
 #### Elective
 
 1) STA 220: Data & Web Technologies for Data Analysis (R/ Python).   
-2) CHE 210A: Quantum Chemistry: Introduction & Stationary-State Properties
-3) PHY 140A: Introduction to Solid State Physics
-4) ECS 036A: Programming & Problem Solving
+2) CHE 210A: Quantum Chemistry: Introduction & Stationary-State Properties.
+4) PHY 140A: Introduction to Solid State Physics.
+5) ECS 036A: Programming & Problem Solving.
 
 ## Spring: Courses + Feedback
 
