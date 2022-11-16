@@ -65,7 +65,7 @@ Understanding data structures, such as arrays, trees, heaps, graphs and Python b
 
 ### Some Smaller Topics
 
-##### Debug & Unit testing
+#### Debug & Unit testing
 
 Pycharm has fancy debugging tools that allow programmers to step into the code and update all local variables after executing each line of code. Unit testing is an essential part of OOP since it helps to verify that the parts of the program (functions) do return results that match our expectations. For that reason, the test cases are usually written along with the program.
 
