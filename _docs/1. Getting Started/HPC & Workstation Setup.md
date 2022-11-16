@@ -13,9 +13,6 @@ has_toc: false
 
 ## Table of contents
 
-{: .no_toc .text-delta }
-
-1. TOC
 {:toc}
 
 ### Procedure for Mac + Monitors and office space
