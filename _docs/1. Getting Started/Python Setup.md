@@ -9,17 +9,7 @@ has_toc: false
 
 # Setup Python
 
-{: .no_toc }
-
 The following will guide you on how to setup and use python for the simulations being run by the group.
-
-## Table of contents
-
-{: .no_toc .text-delta }
-
-### TOC
-
-{:toc}
 
 ### Step 1
 

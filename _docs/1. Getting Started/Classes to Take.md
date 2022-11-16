@@ -9,8 +9,6 @@ has_toc: false
 
 # Recommended classes to take
 
-{: .no_toc }
-
 ## Fall: Courses + Feedback
 
 ### Core
