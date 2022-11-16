@@ -23,8 +23,13 @@ has_toc: false
 
 1) STA 206: Statistical Methods for Research 1 (R).   
 2) STA 209: Optimization for Big Data Analytics.   
+<<<<<<< HEAD:_docs/1. Getting Started/Classes to Take.md
 3) ECS 032B: Introduction to Data Structures (Python).  
 4) ECH 211A: Advanced Physical Chemistry: Statistical Thermodynamics
+=======
+3) ECS 032B: Introduction to Data Structures (Python).   
+4) CHE 211A: Statistical Thermodynamics (Python).
+>>>>>>> 348b5d4c97f816142165e9c2ed875226e514bcc9:_docs/Getting Started/Classes to Take.md
 
 ## Winter: Courses + Feedback
 
@@ -36,9 +41,13 @@ has_toc: false
 #### Elective
 
 1) STA 220: Data & Web Technologies for Data Analysis (R/ Python).   
+<<<<<<< HEAD:_docs/1. Getting Started/Classes to Take.md
 2) CHE 210A: Quantum Chemistry: Introduction & Stationary-State Properties
 3) PHY 140A: Introduction to Solid State Physics
 4) ECS 036A: Programming & Problem Solving
+=======
+2) CHE 210A: Quantum Chemistry: Introduction and Stationary-State Properties.
+>>>>>>> 348b5d4c97f816142165e9c2ed875226e514bcc9:_docs/Getting Started/Classes to Take.md
 
 ## Spring: Courses + Feedback
 
