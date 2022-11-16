@@ -1,4 +1,6 @@
 title: "Kulkarni Group Handbook"
+plugins:
+  - jekyll-remote-theme
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: false
