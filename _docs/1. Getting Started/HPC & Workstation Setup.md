@@ -4,7 +4,7 @@ title: HPC & Workstation Setup
 parent: 1. Getting Started
 has_children: false
 nav_order: 1
-has_toc: True
+has_toc: true
 ---
 
 # Setting up
