@@ -22,7 +22,7 @@ has_toc: false
     1) STA 206: Statistical Methods for Research 1 (R).
     2) STA 209: Optimization for Big Data Analytics.
     3) ECS 032B: Introduction to Data Structures (Python).
-    4) ECH 211A: Advanced Physical Chemistry: Statistical Thermodynamics
+    4) CHE 211A: Advanced Physical Chemistry: Statistical Thermodynamics
 
 ## Winter: Courses + Feedback
 
