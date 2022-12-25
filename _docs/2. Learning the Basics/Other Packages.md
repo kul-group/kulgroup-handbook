@@ -28,7 +28,7 @@ These are short guides to getting started with other, specialized packages that 
 
 (under construction)
 
-### Multiscale Atomisric Zeolite Environment (MAZE)
+### Multiscale Atomistic Zeolite Simulation Environment (MAZE)
 
 #### What is MAZE?
 
