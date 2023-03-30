@@ -43,6 +43,7 @@ scp -r username@hpc1.engr.ucdavis.edu:$1 $2
 
 to_hpc1() {
 scp -r $1 username@hpc1.engr.ucdavis.edu:$2
+}
 
 #hpc2
 from_hpc2() {
@@ -51,6 +52,7 @@ scp -r username@hpc2.engr.ucdavis.edu:$1 $2
 
 to_hpc2() {
 scp -r $1 username@hpc2.engr.ucdavis.edu:$2
+}
 ```
 
 ### STEP 3: creating .profile file on the terminal
