@@ -1,3 +1,12 @@
+---
+layout: default
+title: Theory
+parent: 2. Learning the basics
+has_children: false
+nav_order: 5
+has_toc: false
+---
+
 ### Theory
 
 Though a full understanding of the theory behind our research is not essential for day-to-day work,
