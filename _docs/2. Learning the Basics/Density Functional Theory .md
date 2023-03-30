@@ -14,4 +14,6 @@ Note that PDF's of some of these textbooks (and others) can be found in [books](
 
 *Learning from data - a short course* Abu-Mostafa et al, 2012. PDF [here](https://github.com/GSimas/EEL7514/blob/master/Livros/Learning%20from%20data%20-%20a%20short%20course%20(Abu-Mostafa%20et%20al%2C%202012).pdf)
 
+*Deep Learning for Molecules & Materials* by Andrew D White [(ebook)](https://dmol.pub/index.html).  A really nice ebook on ML for chemistry/materials science applications with lots of relevant examples/tutorials throughout.
+
 For deeper learning, the classes STA 208, 142A/B or ECS289G are recommended.
